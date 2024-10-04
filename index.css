@@ -3,7 +3,4 @@ body{
     flex-direction:row;
     justify-content: center;
     align-items : center;
-};
-.pull{
-    color:blue;
 }
