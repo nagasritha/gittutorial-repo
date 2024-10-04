@@ -6,5 +6,6 @@ body{
 }
 
 .stashCode{
-    color:green
+    color:green;
+    background-color:red;
 }
