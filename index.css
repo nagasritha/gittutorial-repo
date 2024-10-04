@@ -3,9 +3,4 @@ body{
     flex-direction:row;
     justify-content: center;
     align-items : center;
-}
-
-.stashCode{
-    color:green;
-    background-color:red;
-}
+};
